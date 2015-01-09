@@ -84,7 +84,7 @@ it would generate:
 
 `color.json` can combine with [canner](http://github.com/canner/canner) and help you show your color list very quickly.
 
-Reference the can:[json-table](https://github.com/Canner-can/color-table/) for more info.
+Reference the can: [color-table](https://github.com/Canner-can/color-table/) for more info.
 
 ## Issue
 
