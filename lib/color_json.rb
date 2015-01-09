@@ -19,7 +19,7 @@ module ColorJson
             line = line.gsub("\n", "")
             if line[0,4] == "//**"
                 save_tag = line.gsub("//**", "").strip
-                elsif line.initial == "$"
+            elsif line.initial == "$"
                 split = line.split(":")
                 if save_tag
                     color_json[:data][:color].store(save_tag, {}) unless color_json[:data][:color].has_key? save_tag

@@ -1,6 +1,6 @@
 # ColorJson
 
-Easy way to show your `sass/scss/less color` list.
+Easy way to show your `sass/scss/less` color list.
 
 ## Installation
 
@@ -87,7 +87,7 @@ it would generate:
 
 ## Issue
 
-This gem has many needs for imporvement.
+This gem now only support `scss`. It has many needs for imporvement.
 
 Feel free to fork it and pull request.
 
