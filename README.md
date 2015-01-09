@@ -82,7 +82,7 @@ it would generate:
 
 ## What the color.json can do?
 
-`color.json` can combine with [canner](github.com/canner/canner) and help you show your color list very quickly.
+`color.json` can combine with [canner](http://github.com/canner/canner) and help you show your color list very quickly.
 
 
 ## Issue
@@ -93,4 +93,4 @@ Feel free to fork it and pull request.
 
 ## License
 
-[@ctxhou](github.com/ctxhou) MIT
+[@ctxhou](http://github.com/ctxhou) MIT
