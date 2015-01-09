@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'color_json'
+
+Cli::Application.start(ARGV)
