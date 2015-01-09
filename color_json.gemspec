@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vjack070707@gmail.com"]
   spec.summary       = %q{Output the color json file.}
   spec.description   = %q{Easy way to show your sass/scss/less color list.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ctxhou/color_json"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
